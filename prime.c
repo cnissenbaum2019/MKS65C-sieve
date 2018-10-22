@@ -1,4 +1,4 @@
-#include "primeComp2.h"
+#include "prime.h"
 
 int main(int argc, char const *argv[])
 {
