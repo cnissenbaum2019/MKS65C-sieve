@@ -1,4 +1,4 @@
-make: prime.c primeComp.h
+make: prime.c prime.h
 	gcc prime.h
 	gcc prime.c -lm
 
